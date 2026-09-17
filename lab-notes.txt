@@ -1,0 +1,14 @@
+PREDICTIONS
+Trace1 will print:
+3
+7.0
+3.0
+2
+0.3
+
+Trace2 will print:
+5
+-1
+
+Trace3 will print:
+done
