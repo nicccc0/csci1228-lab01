@@ -8,3 +8,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/build/
+/dist/
+/nbproject/private/
+*.class
