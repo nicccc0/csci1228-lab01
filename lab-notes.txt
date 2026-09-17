@@ -12,3 +12,18 @@ Trace2 will print:
 
 Trace3 will print:
 done
+
+RESULTS
+Trace1 prints:
+3
+3.5
+3.0
+0.5
+0.30000000000000004
+
+Trace2 prints:
+10
+-1
+
+Trace3 prints:
+done
