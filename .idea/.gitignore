@@ -10,5 +10,5 @@
 /httpRequests/
 /build/
 /dist/
-/nbproject/private/
+/IdeaProjects/private/
 *.class
